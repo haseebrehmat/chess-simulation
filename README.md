@@ -91,7 +91,7 @@ This project requires [Node.js](https://nodejs.org/) and the [Angular CLI](https
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pencil-fe-assignment.git
+   git clone https://github.com/haseebrehmat/pencil-fe-assignment.git
    cd pencil-fe-assignment
    ```
 
